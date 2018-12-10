@@ -1,2 +1,2 @@
-This is version 3 of ***another*** file.
+This is version 4 of ***another*** file.
 It's going into the first branch.
